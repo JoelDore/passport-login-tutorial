@@ -1,9 +1,10 @@
 # Passport Login Tutorial
 
+[![Read on Google Docs](https://img.shields.io/badge/Read%20on%20Google%20Docs%20-%E2%96%B6-blue)](https://docs.google.com/document/d/14gYYU2WqH39sHpWR-m_kcMSPKyf4BrjqeibTlxZ-imA/edit?usp=sharing)
+
 ## Under The Hood
 This Node application uses an **Express** backend with **Passport** and **bcrypt** for secure user authentication, **Sequelize** to query and route data with a **MySQL** database, and **jQuery** to interact with the backend and dynamically generate **HTML** in **Bootstrap**-styled web pages.
 
----
 ---
 
 ## File Map
