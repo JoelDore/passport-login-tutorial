@@ -24,7 +24,7 @@ This Node application uses an **Express** backend with **Passport** and **bcrypt
     * [signup.js](#Views)
     * [members.js](#Views)
 * stylesheets/
-    * [style.js](#Views)
+    * [style.css](#Views)
 * [login.html](#Views)
 * [signup.html](#Views)
 * [members.html](#Views)
